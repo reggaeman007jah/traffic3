@@ -1,0 +1,1 @@
+// if x vic is in this array, send them back to beginning 
