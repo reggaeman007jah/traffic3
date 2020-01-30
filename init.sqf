@@ -1,3 +1,5 @@
+// comment
+
 // route start and end points
 route1Start = getMarkerPos "route1Start";
 route1Dest = getMarkerPos "route1Dest";
